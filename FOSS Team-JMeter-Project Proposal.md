@@ -9,14 +9,14 @@ Project name
 JMeter: User Interface (UI) enhancement(s)
 
 >###Introduction
-The Apache Software Foundation (ASF) manages more than 139 projects including Apache JMeter. "The Apache JMeter desktop application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance." It can be utilized to test the different type of connections such as HTTP; LDAP; database connection using JDBC; TCP; and other connections. Plugins are the fundamental parts of the JMeter’s architecture. In other words, it can be extended by developing the customized plugins.
+The Apache Software Foundation (ASF) manages more than 139 projects including Apache JMeter. "The Apache JMeter desktop application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance." It can be utilized to test the different type of connections such as HTTP; LDAP; database connection using JDBC; TCP; and other connections. Plugins are the fundamental parts of the JMeterï¿½s architecture. In other words, it can be extended by developing the customized plugins.
 
 ###Goals:
  - get familiar with JMeter
 - improve user experience
-- verify user’s test scenarios
+- verify userï¿½s test scenarios
 - fix Bug #54784
-- fix Bug#54525 –optional
+- fix Bug#54525 ï¿½optional
 - test the proposed bug-fix(s) on various browsers (e.g. Internet Explorer, Firefox, and Chrome)
 
 ###Scope
@@ -25,12 +25,12 @@ If patch is accepted and we have enough time-we can try to take a look at [enhan
 There are rules for patch creation, doc writing etc. It would be a fun time to get familiar with those requirements. The idea here is to get involved in a FOSS development process and to contribute.
 
 ###Bug description
-There is a selection/add issue while using the “Enter” button to select/add the desired option from the right-click menu.
+There is a selection/add issue while using the ï¿½Enterï¿½ button to select/add the desired option from the right-click menu.
 
 ###Bug Background
 
 *Bug #54784*:
-The bug description and test scenario have been provided as stated below: “User cannot use the right-click menu fully with keyboard navigation.
+The bug description and test scenario have been provided as stated below: ï¿½User cannot use the right-click menu fully with keyboard navigation.
     Launch JMeter
     Select a Thread Group
     Press Shift+F10
@@ -40,18 +40,18 @@ Expected: That the right-click menu is displayed, as in other Windows applicatio
     Navigate with keyboard arrow buttons to an element, e.g. Add, Sampler, HTTP Request
     Press Enter on keyboard
 Result: Nothing happens.
-Expected: That the selected element is inserted”
-Benefits: better user’s experience
+Expected: That the selected element is insertedï¿½
+Benefits: better userï¿½s experience
 
 *Bug #54525*:
           Related issue(s): [Bug#22076](https://issues.apache.org/bugzilla/show_bug.cgi?id=22076)
 User described this issue as stated below:
-“The ability to search and replace when creating new variables would be very useful. 
+ï¿½The ability to search and replace when creating new variables would be very useful. 
 
 It would be an even greater enhancement if there were a button available on the User Defined Variables form that would allow me to:
 
-‘Find any occurrences of the [MYVALUE] string and replace with '${[MYVARNAME]}'".
-Benefits: saving the time, risk and effort of having to go through the plan and complete this process manually’. “
+ï¿½Find any occurrences of the [MYVALUE] string and replace with '${[MYVARNAME]}'".
+Benefits: saving the time, risk and effort of having to go through the plan and complete this process manuallyï¿½. ï¿½
 
 ###Hardware description
 The preliminary bug verification will be performed on Windows 7 Home Premium (x64-bit, Intel Core i7), Windows 7 Professional (x64-bit, Intel Pentium).
@@ -61,10 +61,10 @@ Bug #54525 - P2 enhancement
 Bug #54784 - P3 enhancement
 
 ##Ruling
-Follow the User’s Guide instructions to get familiar with the Apache JMeter.
+Follow the Userï¿½s Guide instructions to get familiar with the Apache JMeter.
 Get familiar with the distributing testing, recording tests.
 Review the JUnit Sampler and Access Log Sampler sections
-Follow the steps (if applicable) described in The Contributors Tech Guide (e.g. Sending in Patches) https://www.apache.org/dev/contributors 
+Follow the steps (if applicable) described in The Contributors Tech Guide [e.g. Sending in Patches](https://www.apache.org/dev/contributors) 
 The enhancement implementation process is guided by Contributors Tech Guide 
 
 ###Authorized persons
@@ -86,7 +86,7 @@ Viktor P Titenko
 -	Identify/locate the project package(s) to start work on
 -	Create a step-by-step plan to fix Bug #54784 
 -	Create the Test Plan to test modified package(s)
--	Create the Test Strategy (e.g. types of tests to perform – functional, non-functional tests, etc)
+-	Create the Test Strategy (e.g. types of tests to perform ï¿½ functional, non-functional tests, etc)
 -	Create a Test Case(s)
 -	Run Test Case(s)
 -	Create a screencast
@@ -98,7 +98,7 @@ Viktor P Titenko
 -	Create a new Card for project proposal
 -       Add Markdown syntax to project proposal
 -	Join the Apache JMeter Mailing List if needed
--	Try to communicate to the project community when initial goal has been reached (.e.g. get familiar with the JMeter) – Feel free to modify/delete this statement 
+-	Try to communicate to the project community when initial goal has been reached (.e.g. get familiar with the JMeter) ï¿½ Feel free to modify/delete this statement 
 -	Add more duties to this paragraph
 -       Clone/fork the Apache JMeter into GitHub account
 -	Perform the code review
@@ -109,7 +109,7 @@ Viktor P Titenko
 -	Identify/locate the project package(s) to start work on
 -	Create a step-by-step plan to fix Bug #54784 
 -	Create the Test Plan to test modified package(s)
--	Create the Test Strategy (e.g. types of tests to perform – functional, non-functional tests, etc)
+-	Create the Test Strategy (e.g. types of tests to perform ï¿½ functional, non-functional tests, etc)
 -	Create a Test Case(s)
 -	Run Test Case(s)
 -	Create a screencast
