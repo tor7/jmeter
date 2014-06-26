@@ -14,9 +14,9 @@ The Apache Software Foundation (ASF) manages more than 139 projects including Ap
 ###Goals:
  - get familiar with JMeter
 - improve user experience
-- verify user�s test scenarios
+- verify user's test scenarios
 - fix Bug #54784
-- fix Bug#54525 �optional
+- fix Bug#54525 -optional
 - test the proposed bug-fix(s) on various browsers (e.g. Internet Explorer, Firefox, and Chrome)
 
 ###Scope
@@ -30,7 +30,7 @@ There is a selection/add issue while using the �Enter� button to select/add 
 ###Bug Background
 
 *Bug #54784*:
-The bug description and test scenario have been provided as stated below: �User cannot use the right-click menu fully with keyboard navigation.
+The bug description and test scenario have been provided as stated below: User cannot use the right-click menu fully with keyboard navigation.
     Launch JMeter
     Select a Thread Group
     Press Shift+F10
@@ -46,11 +46,11 @@ Benefits: better user�s experience
 *Bug #54525*:
           Related issue(s): [Bug#22076](https://issues.apache.org/bugzilla/show_bug.cgi?id=22076)
 User described this issue as stated below:
-�The ability to search and replace when creating new variables would be very useful. 
+The ability to search and replace when creating new variables would be very useful. 
 
 It would be an even greater enhancement if there were a button available on the User Defined Variables form that would allow me to:
 
-�Find any occurrences of the [MYVALUE] string and replace with '${[MYVARNAME]}'".
+Find any occurrences of the [MYVALUE] string and replace with '${[MYVARNAME]}'".
 Benefits: saving the time, risk and effort of having to go through the plan and complete this process manually�. �
 
 ###Hardware description
@@ -61,7 +61,7 @@ Bug #54525 - P2 enhancement
 Bug #54784 - P3 enhancement
 
 ##Ruling
-Follow the User�s Guide instructions to get familiar with the Apache JMeter.
+Follow the User's Guide instructions to get familiar with the Apache JMeter.
 Get familiar with the distributing testing, recording tests.
 Review the JUnit Sampler and Access Log Sampler sections
 Follow the steps (if applicable) described in The Contributors Tech Guide [e.g. Sending in Patches](https://www.apache.org/dev/contributors) 
@@ -86,7 +86,7 @@ Viktor P Titenko
 -	Identify/locate the project package(s) to start work on
 -	Create a step-by-step plan to fix Bug #54784 
 -	Create the Test Plan to test modified package(s)
--	Create the Test Strategy (e.g. types of tests to perform � functional, non-functional tests, etc)
+-	Create the Test Strategy (e.g. types of tests to perform functional, non-functional tests, etc)
 -	Create a Test Case(s)
 -	Run Test Case(s)
 -	Create a screencast
@@ -98,7 +98,7 @@ Viktor P Titenko
 -	Create a new Card for project proposal
 -       Add Markdown syntax to project proposal
 -	Join the Apache JMeter Mailing List if needed
--	Try to communicate to the project community when initial goal has been reached (.e.g. get familiar with the JMeter) � Feel free to modify/delete this statement 
+-	Try to communicate to the project community when initial goal has been reached (.e.g. get familiar with the JMeter)  Feel free to modify/delete this statement 
 -	Add more duties to this paragraph
 -       Clone/fork the Apache JMeter into GitHub account
 -	Perform the code review
