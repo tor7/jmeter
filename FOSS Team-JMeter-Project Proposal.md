@@ -9,7 +9,7 @@ Project name
 JMeter: User Interface (UI) enhancement(s)
 
 >###Introduction
-The Apache Software Foundation (ASF) manages more than 139 projects including Apache JMeter. "The Apache JMeter desktop application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance." It can be utilized to test the different type of connections such as HTTP; LDAP; database connection using JDBC; TCP; and other connections. Plugins are the fundamental parts of the JMeter�s architecture. In other words, it can be extended by developing the customized plugins.
+The Apache Software Foundation (ASF) manages more than 139 projects including Apache JMeter. "The Apache JMeter desktop application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance." It can be utilized to test the different type of connections such as HTTP; LDAP; database connection using JDBC; TCP; and other connections. Plugins are the fundamental parts of the JMeter's architecture. In other words, it can be extended by developing the customized plugins.
 
 ###Goals:
  - get familiar with JMeter
@@ -25,7 +25,7 @@ If patch is accepted and we have enough time-we can try to take a look at [enhan
 There are rules for patch creation, doc writing etc. It would be a fun time to get familiar with those requirements. The idea here is to get involved in a FOSS development process and to contribute.
 
 ###Bug description
-There is a selection/add issue while using the �Enter� button to select/add the desired option from the right-click menu.
+There is a selection/add issue while using the "Enter" botton to select/add the desired option from the right-click menu.
 
 ###Bug Background
 
@@ -40,8 +40,8 @@ Expected: That the right-click menu is displayed, as in other Windows applicatio
     Navigate with keyboard arrow buttons to an element, e.g. Add, Sampler, HTTP Request
     Press Enter on keyboard
 Result: Nothing happens.
-Expected: That the selected element is inserted�
-Benefits: better user�s experience
+Expected: That the selected element is inserted
+Benefits: better user's experience
 
 *Bug #54525*:
           Related issue(s): [Bug#22076](https://issues.apache.org/bugzilla/show_bug.cgi?id=22076)
@@ -51,7 +51,7 @@ The ability to search and replace when creating new variables would be very usef
 It would be an even greater enhancement if there were a button available on the User Defined Variables form that would allow me to:
 
 Find any occurrences of the [MYVALUE] string and replace with '${[MYVARNAME]}'".
-Benefits: saving the time, risk and effort of having to go through the plan and complete this process manually�. �
+Benefits: saving the time, reduce the risk and effort of having to go through the plan and complete select/add process manually
 
 ###Hardware description
 The preliminary bug verification will be performed on Windows 7 Home Premium (x64-bit, Intel Core i7), Windows 7 Professional (x64-bit, Intel Pentium).
