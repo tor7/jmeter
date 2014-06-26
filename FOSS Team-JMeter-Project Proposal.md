@@ -2,8 +2,6 @@ comp412
 =======================
 *Week 3*:
 
-Preliminary Draft
-======================
 Project name
 -----------------
 JMeter: User Interface (UI) enhancement(s)
