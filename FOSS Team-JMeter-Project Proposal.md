@@ -109,7 +109,7 @@ Viktor P Titenko
 -	Identify/locate the project package(s) to start work on
 -	Create a step-by-step plan to fix Bug #54784 
 -	Create the Test Plan to test modified package(s)
--	Create the Test Strategy (e.g. types of tests to perform � functional, non-functional tests, etc)
+-	Create the Test Strategy (e.g. types of tests to perform functional, non-functional tests, etc)
 -	Create a Test Case(s)
 -	Run Test Case(s)
 -	Create a screencast
