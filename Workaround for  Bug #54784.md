@@ -15,7 +15,7 @@ The "Enter" keyboard shortcut is not activated while the navigation arrow button
 The requested feature (such as "Shift+F10") is not listed under the current JMeter KeyBoard Shortcuts' page.
 However, the "F10" keyboard button invokes the "File" drop-down menu  which allows the further navigation by utilizing the keyboard arrows buttons
 
-### *There is a workaround to achieve the requested functionality by utilizing the specific order of the current keyboard shortcuts.
+### *There is a workaround to achieve the requested functionality by utilizing the specific order of the current keyboard shortcuts*.
 It includes three basic steps.
 First of all, user should select the desired element under Test Plan tree.
 The second step is to press the "F10" button to invoke the pop-up of the File menu.
