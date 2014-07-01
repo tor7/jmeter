@@ -43,7 +43,7 @@ Benefits: better user's experience
 **Test Results Analysis**
 The proposed workaround provides similar functionality
 
->**Additioanl information
+>**Additional information
 Edit Menu implementation: *jmeter-->core-->org.apache.jmeter-->gui-->actions-->EditCommand.java*
 **TODO**
 Implement the requested feature
