@@ -1,6 +1,6 @@
-Project name
+*Project name*
 =======================
-JMeter: User Interface (UI) enhancement(s)
+**JMeter: User Interface (UI) enhancement(s)**
 
 ----------------
 *Week 3*:  Progress
