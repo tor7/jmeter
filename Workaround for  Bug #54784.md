@@ -43,9 +43,10 @@ Benefits: better user's experience
 **Test Results Analysis**
 The proposed workaround provides similar functionality
 
->**Additioanl information
+>**Additioanl information**
 Edit Menu implementation: *jmeter-->core-->org.apache.jmeter-->gui-->actions-->EditCommand.java*
-**TODO**
+
+>**TODO**
 Implement the requested feature
   "Shift + F10" to invoke the "Edit" menu while the "Thread Group" element is highlighted.
 
